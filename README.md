@@ -1,2 +1,2 @@
 # java-utils
-Helpfull java utilities
+Library with helpfull Java utilities. Contains Java classes with static methods.
